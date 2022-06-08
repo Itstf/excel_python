@@ -1,0 +1,12 @@
+Teste no VISUAL STUDIO CODE, pois se não o programa não irá rodar corretamente!
+Obrigada.
+
+1- Extraia os arquivos excel em .rar e coloque na raiz junto com o código.
+
+2- Instale:
+pip install win10toast
+pip install pandas
+pip install inquirer
+pip install tqdm
+pip install openpyxl
+pip install matplotlib
